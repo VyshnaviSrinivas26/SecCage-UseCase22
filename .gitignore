@@ -1,0 +1,10 @@
+cat > .gitignore <<'EOF'
+seccage
+*_static
+test_static
+logs/
+core
+core.*
+*.o
+*.out
+secret.txt
